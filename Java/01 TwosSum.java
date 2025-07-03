@@ -17,12 +17,10 @@ class Solution {
                         break;
                     }
                 }
-
             }
             if(sum==target){
                 break;
             }
-
         }
         twoSum[0]=index1;
         twoSum[1]=index2;
