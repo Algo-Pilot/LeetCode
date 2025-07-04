@@ -1,2 +1,2 @@
 ## File Index
-[01_TwosSum.java](01_TwosSum.java)
+[1. Two Sum](1. Two Sum.java)
